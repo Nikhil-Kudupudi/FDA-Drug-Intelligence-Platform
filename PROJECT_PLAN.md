@@ -1,4 +1,4 @@
-# FDA Drug Intelligence Platform - Solo Developer Portfolio Guide
+# FDA Drug Intelligence Platform 
 
 > **Your complete reference for building an end-to-end data platform covering Data Engineering + Analytics + Data Science**
 
